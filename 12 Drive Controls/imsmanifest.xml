@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xsi:schemaLocation="http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 imsmd_v1p2p4.xsd" identifier="id-e6c0bc0c-1528-847e-f242-59b87ae95313">
+  <organizations>
+    <organization identifier="org-865b11de-8827-41c5-90f6-c9405f28dacc">
+      <title>Drive control course</title>
+      <item identifier="item-994bd744-ef4b-666a-9d91-203aaa9d6f3d" identifierref="res-fc0096e4-2afa-5a4c-95d0-a65bda4ed9f5">
+        <title>Introduction to drive controls</title>
+        <metadata>
+          <imsmd:lom/>
+        </metadata>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource xml:base="" href="Resources\G120 PM240-2 CU250S-2PN.pptx" identifier="res-fc0096e4-2afa-5a4c-95d0-a65bda4ed9f5" type=""/>
+  </resources>
+</manifest>
