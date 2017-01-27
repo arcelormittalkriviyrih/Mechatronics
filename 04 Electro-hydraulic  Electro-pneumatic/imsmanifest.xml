@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xsi:schemaLocation="http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 imsmd_v1p2p4.xsd" identifier="id-e6974ea7-e426-dda1-30f4-278206be8bd0">
+  <organizations/>
+  <resources/>
+</manifest>
